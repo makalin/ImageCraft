@@ -36,8 +36,8 @@ Make sure you have the following installed on your system:
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/imagecraft.git
-   cd imagecraft
+   git clone https://github.com/makalin/ImageCraft.git
+   cd ImageCraft
    ```
 
 2. Install the required dependencies:
